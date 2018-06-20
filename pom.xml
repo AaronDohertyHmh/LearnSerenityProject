@@ -5,10 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hmhco.hmhqe</groupId>
-    <artifactId>blankserenity</artifactId>
+    <artifactId>LearningSerenity</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <description>Learning Serenity from the ground up using maven</description>
 
-    <name>Blank Serenity</name>
+    <name>Learning Serenity</name>
 
 
     <properties>
